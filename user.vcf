@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Page;Siddharth;;;
-FN: Siddharth  Page 
+N:Sundarappa;Sombabu;;;
+FN: Sombabu  Sundarappa 
 ORG:Indo-MIM Ltd.;
-TITLE:Sales Engineer\nEurope Region
+TITLE:Business Development Engineer\nTeam Lead
 EMAIL;type=INTERNET;type=WORK;type=pref:siddharth.p@indo-mim.com
-TEL;type=WORK;type=VOICE:+49 172 862 5850
-item1.ADR;type=WORK;type=pref:;;Indian Business Center\nOskar Lapp Str. 2;;;70565;Stuttgart
+TEL;type=WORK;type=VOICE:+91 90364 62982
+item1.ADR;type=WORK;type=pref:;;45(P) Industrial Estate\nKIADB Industrial Area, Doddaballapura;;;562163;Bengaluru KA 
 item1.X-ABADR:sg
 item2.URL;type=pref:indo-mim.com
 item2.X-ABLabel:_$!<HomePage>!$_
